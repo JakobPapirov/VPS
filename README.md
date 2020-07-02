@@ -25,3 +25,10 @@ However, visiting http://vps.jakobpapirov.se/nodejs/hello-world/ or http://vps.j
 
 ## 3. Django (2st app)
 NaN
+
+
+# Useful commands
+
+## Ubuntu 18.04
+
+## PM2
