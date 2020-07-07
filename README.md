@@ -45,3 +45,5 @@ NaN
 * https://www.youtube.com/watch?v=oykl1Ih9pMg
 * https://www.dangtrinh.com/2015/05/how-to-restore-nginxconf-to-default.html
 * https://askubuntu.com/questions/9402/what-file-permissions-should-i-set-on-web-root
+* https://www.ionos.com/community/server-cloud-infrastructure/nginx/solve-an-nginx-403-forbidden-error/
+* https://gist.github.com/solancer/879105abb05eb7f13ce23e822ed70dd6
